@@ -4,7 +4,6 @@ List out the computational inefficiencies and anti-patterns found in the code bl
 
 */
 
-
 interface WalletBalance {
   currency: string;
   amount: number;

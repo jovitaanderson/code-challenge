@@ -21,8 +21,6 @@ var sum_to_n_c = function(n) {
     }
 };
 
-console.log("sum_to_n_a on input 5:", sum_to_n_a(5)); 
-console.log("sum_to_b_a on input 5:", sum_to_n_b(5)); 
-console.log("sum_to_c_a on input 5:", sum_to_n_c(5)); 
-
-//  Problem 2
+// console.log("sum_to_n_a on input 5:", sum_to_n_a(5)); 
+// console.log("sum_to_b_a on input 5:", sum_to_n_b(5)); 
+// console.log("sum_to_c_a on input 5:", sum_to_n_c(5)); 
